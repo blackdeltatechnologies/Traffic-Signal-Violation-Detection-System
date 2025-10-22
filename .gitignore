@@ -1,0 +1,16 @@
+# Large model files
+*.weights
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large binary files
+*.mp4
+*.pptx
+*.pdf
+
+# Generated images
+Detected Images/
+Resources/input/
+Resources/output/
